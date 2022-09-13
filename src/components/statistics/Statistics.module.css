@@ -11,9 +11,11 @@
   align-items: center;
   text-align: center;
   margin: 0 auto;
+  background-color: #ffffff;
 }
 
 .title {
+  font-weight: 700;
   font-size: 20px;
   padding: 10px 20px;
   text-align: center;
@@ -25,7 +27,6 @@
   display: flex;
   width: 100%;
   margin: 0;
-  background-color: rgb(224, 147, 92);
 }
 
 .item {
@@ -51,7 +52,8 @@
   color: #212121;
 }
 .label {
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: 500;
   line-height: 1.25;
   color: #212121;
 }
